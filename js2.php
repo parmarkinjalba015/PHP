@@ -1,0 +1,14 @@
+<html>
+	<body>
+	<script>
+	for(r=1;r<=5;r++)
+	{
+		for(c=1;c<=r;c++)
+		{
+			document.write(c);
+		}
+	    document.write("<br>");
+	}
+	</script>
+	</body>
+</html>
